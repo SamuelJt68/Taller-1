@@ -30,7 +30,7 @@ public class ConsolaOlimpicos
 	public void ejecutarAplicacion()
 	{
 		System.out.println("Estadísticas sobre los Juegos Olímpicos\n");
-
+//hola
 		boolean continuar = true;
 		while (continuar)
 		{
