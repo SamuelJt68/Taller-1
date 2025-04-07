@@ -1,0 +1,13 @@
+{
+  "name": "taller-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "build": "tsc",
+      "start": "node index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Taller 1"
+}
